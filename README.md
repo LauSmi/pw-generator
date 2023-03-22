@@ -6,6 +6,11 @@ This is a refactor exercise where I completed a password generator using source 
 Link to website: https://lausmi.github.io/pw-generator/
 Link to GitHub: https://github.com/LauSmi/pw-generator
 
+![Alt text](Screenshot%202023-03-22%20144159.png)
+
+
+
+
 # Installation N/A
 
 # Usage: 
