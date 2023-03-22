@@ -1,7 +1,7 @@
-# Password Generator Starter Code
+# Password Generator Refactor Assignmnet
 
 # Description: 
-This is a refactor exercise where I completed a password generator using source code provided by the University of Minnisiota Bootcamp program. I added HTML, CSS and JavaScript code to make the password generator functional.  I finished this challenge with the help of a step-by-step tutorial by Tyler Potts on YouTube, while fitting the code to the parameters already supplied. 
+This is a refactor exercise where I completed a password generator using source code provided by the University of Minnisota Bootcamp program. I added HTML, CSS and JavaScript code to make the password generator functional.  I finished this challenge with the help of a step-by-step tutorial by Tyler Potts on YouTube, while fitting the code to the parameters already supplied. 
 
 Link to website: https://lausmi.github.io/pw-generator/
 Link to GitHub: https://github.com/LauSmi/pw-generator
@@ -9,7 +9,7 @@ Link to GitHub: https://github.com/LauSmi/pw-generator
 # Installation N/A
 
 # Usage: 
-Each section contains info about my work. The website is responsive and viewable on mobile devices. Project links open up my GitHub. I also added a link to Linkedin.
+The password generator will create a password from 8-128 characters. The user can customize their password by checking and unchecking the boxes including uppercase, lowercase, numbers and symbols. If no boxes are checked, a password will not generate.
 
 # Credits: 
 Tyler Potts https://www.youtube.com/watch?v=XH7CzSZ-9gY&ab_channel=TylerPotts
