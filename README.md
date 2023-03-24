@@ -4,10 +4,14 @@
 This is a refactor exercise where I completed a password generator using source code provided by the University of Minnisota Bootcamp program. I added HTML, CSS and JavaScript code to make the password generator functional.  I finished this challenge with the help of a step-by-step tutorial by Tyler Potts on YouTube, while fitting the code to the parameters already supplied. 
 
 Link to website: https://lausmi.github.io/pw-generator/
+
+
 Link to GitHub: https://github.com/LauSmi/pw-generator
 
-![Alt text](Screenshot%202023-03-22%20144159.png)
 
+# Screenshot
+
+![Alt text](Screenshot%202023-03-22%20144159.png)
 
 
 
