@@ -1,4 +1,4 @@
-# Password Generator Refactor Assignmnet
+# Password Generator Refactor Assignment
 
 # Description: 
 This is a refactor exercise where I completed a password generator using source code provided by the University of Minnisota Bootcamp program. I added HTML, CSS and JavaScript code to make the password generator functional.  I finished this challenge with the help of a step-by-step tutorial by Tyler Potts on YouTube, while fitting the code to the parameters already supplied. 
