@@ -11,7 +11,7 @@ Link to GitHub: https://github.com/LauSmi/pw-generator
 
 # Screenshot
 
-![Alt text](Screenshot%202023-03-22%20144159.png)
+![Alt text](<assets/Screenshot 2023-03-22 144159.png>)
 
 
 
