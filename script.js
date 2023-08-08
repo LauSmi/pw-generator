@@ -21,7 +21,7 @@ copy_btn.addEventListener('click', copyPassword);
 
 function generatePassword () {
   let password = "";
-  let length = length_el.value;
+  let length = parseInt(length_el.value); // Convert input to integer
   let chars = "";
 
   chars += uppercase_el.checked ? uppercase_chars : "";
@@ -29,7 +29,14 @@ function generatePassword () {
   chars += numbers_el.checked ? numbers_chars : "";
   chars += symbols_el.checked ? symbols_chars : "";
 
-  for (let i = 0; i <= length; i++) {
+  // Limit the password length to be within the range of 8 to 128 characters
+  if (length < 8) {
+    length = 8;
+  } else if (length > 128) {
+    length = 128;
+  }
+
+  for (let i = 0; i < length; i++) { // Use < instead of <=
     let rand = Math.floor(Math.random() * chars.length);
     password += chars.substring(rand, rand + 1);
   }
@@ -38,4 +45,5 @@ function generatePassword () {
 }
 
 // Add event listener to generate button
-generateBtn.addEventListener("click", writePassword);
+generateBtn.addEventListener("click", generatePassword); // Change to generatePassword
+
